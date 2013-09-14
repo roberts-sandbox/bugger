@@ -1,1 +1,1 @@
-echo "Your Grill"
+echo "Your Grill\n"
